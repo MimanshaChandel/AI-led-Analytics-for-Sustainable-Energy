@@ -29,6 +29,10 @@ The Idea of the solution is in line with the sustainability goals listed by the 
 5.  The historic and predicted analytics on the data is depicted using IBM Cognos Dashboard.
 6.  Users acces the IBM Cognos dashboard via exposed endpoint URL.
 
+**Project Roadmap**
+![image](https://user-images.githubusercontent.com/62833149/122602508-921a5780-d090-11eb-9308-78051cd321b4.png)
+
+
 **Build With**
 
 1.IBM watson Studio
@@ -38,6 +42,6 @@ The Idea of the solution is in line with the sustainability goals listed by the 
 
 **Detailed Description**
 
-The data recieved from sensors is sent to IBM watson IOT. From there the data is loaded to IBM cloud storage. Real Time analytics is done on data to show the current trend of the fossil fuel consumption per capita CO2 emissions from fossil fuels and renewable energy consumption per capita. This data is used to train Time sries Algorith ARIMA and Regression models(Linear Regression) for predicting future values for next 5 years.
+The data recieved from sensors is sent to IBM watson IOT. From there the data is loaded to IBM cloud storage. Real Time analytics is done on data to show the current trend of the fossil fuel consumption per capita CO2 emissions from fossil fuels and renewable energy consumption per capita. This data is used to train Time sries Algorithm ARIMA and Regression models(Linear Regression) for predicting future values for next 5 years.
 
 
