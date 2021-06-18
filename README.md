@@ -38,4 +38,6 @@ The Idea of the solution is in line with the sustainability goals listed by the 
 
 **Detailed Description**
 
-The data recieved from sensors is sent to IBM watson IOT. From there the data is loaded to IBM cloud storage. Real Time analytics is done on data to show the current trend of the fossil fuel consumption per capita CO2 emissions from fossil fuels and renewable energy consumption per capita. This data is used to train Time sries ALgorith ARIMA and Regression models(Linear Regression) for predicting future values for next 5 years.
+The data recieved from sensors is sent to IBM watson IOT. From there the data is loaded to IBM cloud storage. Real Time analytics is done on data to show the current trend of the fossil fuel consumption per capita CO2 emissions from fossil fuels and renewable energy consumption per capita. This data is used to train Time sries Algorith ARIMA and Regression models(Linear Regression) for predicting future values for next 5 years.
+
+
