@@ -30,6 +30,12 @@ The Idea of the solution is in line with the sustainability goals listed by the 
 6.  Users acces the IBM Cognos dashboard via exposed endpoint URL.
 
 **Build With**
+
 1.IBM watson Studio
 2.IBM Cognos Dashboard
 3.IBM Watson Machine Learning Service
+
+
+**Detailed Description**
+
+The data recieved from sensors is sent to IBM watson IOT. From there the data is loaded to IBM cloud storage. Real Time analytics is done on data to show the current trend of the fossil fuel consumption per capita CO2 emissions from fossil fuels and renewable energy consumption per capita.
