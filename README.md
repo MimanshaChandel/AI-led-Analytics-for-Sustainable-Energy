@@ -32,6 +32,7 @@ The Idea of the solution is in line with the sustainability goals listed by the 
 **Project Roadmap**
 ![image](https://user-images.githubusercontent.com/62833149/122602508-921a5780-d090-11eb-9308-78051cd321b4.png)
 
+Steps 1,2,3, and 4 are done. Used Simulated ata for modeling
 
 **Build With**
 
