@@ -17,7 +17,7 @@ The Idea of the solution is in line with the sustainability goals listed by the 
 
 **Demo Video**
 
-https://youtu.be/rGCqelGh9Dc
+https://youtu.be/wVFl95_Z4EU
 
 **The architecture**
 
