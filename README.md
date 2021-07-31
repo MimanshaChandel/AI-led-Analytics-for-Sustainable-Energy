@@ -31,10 +31,12 @@ https://youtu.be/rGCqelGh9Dc
 5.  The historic and predicted analytics on the data is depicted using IBM Cognos Dashboard.
 6.  Users acces the IBM Cognos dashboard via exposed endpoint URL.
 
+Dashboard URL :https://eu-gb.dataplatform.cloud.ibm.com/dashboards/6f2f3327-c106-4653-8045-68f346d9b516/view/7924e4183cbe029241d3dce407c828002e30265bb2bb8a02d2827b490d677797f03d1295c87c4308d2130366f4e9135bcf
+
 **Project Roadmap**
 ![image](https://user-images.githubusercontent.com/62833149/122602508-921a5780-d090-11eb-9308-78051cd321b4.png)
 
-Steps 1,2,3, and 4 are done. Used Simulated ata for modeling
+Steps 1,2,3, and 4 are done. Used Simulated data for modeling
 
 **Build With**
 
